@@ -9,7 +9,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=559341153190446&text=Hola!)](https://api.whatsapp.com/send?phone=559341153190446&text=Hola!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gonzalozubiri24@gmail.com)](mailto:gonzalozubiri24@gmail.com)
 
-<h3 align="left">Technologies</h3>
+<h3 align="left">Technologies:</h3>
 <p align="left"></p> 
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/GonzaloZubiri/)](https://github.com/GonzaloZubiri/)
