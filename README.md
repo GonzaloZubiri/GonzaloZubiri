@@ -15,6 +15,7 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/GonzaloZubiri/)](https://github.com/GonzaloZubiri/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/GonzaloZubiri/)](https://github.com/GonzaloZubiri/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/GonzaloZubiri/)](https://github.com/GonzaloZubiri/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/GonzaloZubiri/)](https://github.com/GonzaloZubiri/)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/GonzaloZubiri/)](https://github.com/GonzaloZubiri/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/GonzaloZubiri/)](https://github.com/GonzaloZubiri/)
@@ -22,4 +23,6 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GonzaloZubiri&&show_icons=true&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&count_private=true"></p> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloZubiri&bg_color=000000&text_color=FFFFFF&title_color=159E4A&langs_count=10&card_width=1000&layout=compact)](https://github.com/GonzaloZubiri/github-readme-stats)
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=gonzalo&label=Profile%20views&color=0e75b6&style=flat" alt="gonzalo" /> </p>
 
