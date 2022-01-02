@@ -21,7 +21,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/GonzaloZubiri/)](https://github.com/GonzaloZubiri/)
 
 <p align="center">
-:zap:Hours I been coding since using Wakatime <a href="https://wakatime.com/@f13193fe-32f7-478a-9c14-85c657c05b2f"><img src="https://wakatime.com/badge/user/f13193fe-32f7-478a-9c14-85c657c05b2f.svg" alt="Total time coded since Dec 31 2021">:zap:                                               </p>
+:zap:Hours I been coding since using Wakatime <a href="https://wakatime.com/@f13193fe-32f7-478a-9c14-85c657c05b2f"><img src="https://wakatime.com/badge/user/f13193fe-32f7-478a-9c14-85c657c05b2f.svg" alt="Total time coded since Dec 31 2021" /></a>:zap:                                               </p>
 
   
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GonzaloZubiri&&show_icons=true&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&count_private=true"></p> 
