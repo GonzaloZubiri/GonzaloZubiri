@@ -23,7 +23,9 @@
 <p align="center">
 :zap:Hours I been coding since using Wakatime <a href="https://wakatime.com/@f13193fe-32f7-478a-9c14-85c657c05b2f"><img src="https://wakatime.com/badge/user/f13193fe-32f7-478a-9c14-85c657c05b2f.svg" alt="Total time coded since Dec 31 2021" /></a>:zap: </p>
 
-<img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D22584%26project%3D%26in%3D0">
+<p align="center">
+:zap:Hours I been coding since using CodeTime
+<img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D22584%26project%3D%26in%3D0">:zap: </p>
 
   
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GonzaloZubiri&&show_icons=true&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&count_private=true"></p> 
