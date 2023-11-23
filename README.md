@@ -27,6 +27,8 @@
 :zap:Hours I been coding since using CodeTime
 <img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D22584%26project%3D%26in%3D0">:zap: </p>
 
+[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D22584%26project%3D%26in%3D0)](https://codetime.dev)
+
   
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GonzaloZubiri&&show_icons=true&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&count_private=true"></p> 
 
